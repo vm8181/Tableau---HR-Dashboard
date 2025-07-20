@@ -92,5 +92,10 @@ https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/
 
 ---
 
-## 📬 Feedback & Contributions
+## 📬 Feedback & Contributions (Dashboard Link)
 https://public.tableau.com/app/profile/vikash.mishra5133/viz/HRAnalysisDashboard_17530121711270/HROverview?publish=yes
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vikashm1996)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B0082?logo=internet-explorer)](https://vikashmishra.co.in/)
